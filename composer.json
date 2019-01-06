@@ -41,6 +41,10 @@
         {
             "type": "vcs",
             "url": "https://github.com/kouosl/portal-content.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/zelakus/portal-platformer.git"
         }
     ],
     "require": {
@@ -53,7 +57,8 @@
         "kouosl/portal-site": "dev-develop",
         "kouosl/portal-user": "dev-develop",
         "kouosl/portal-menu": "dev-develop",
-        "kouosl/portal-content": "dev-develop"
+        "kouosl/portal-content": "dev-develop",
+        "kouosl/portal-platformer": "dev-develop"
     },
     "require-dev": {
         "yiisoft/yii2-debug": "~2.0.0",

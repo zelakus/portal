@@ -24,6 +24,9 @@ return [
         ],
         'sample' => [
             'class' => 'kouosl\sample\Module'   // here is our v1 modules
+        ],
+        'platformer' => [
+            'class' => 'kouosl\platformer\Module',
         ]
 
     ],
